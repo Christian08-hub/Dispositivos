@@ -1,0 +1,5 @@
+Fecha y Hora: [19/03/2021 22:06:29] Tipo de Acción y Origen: null Creacion de dispositivo
+Fecha y Hora: [19/03/2021 22:06:29] Tipo de Acción y Origen: null Administrarcion de dispositivo
+Fecha y Hora: [19/03/2021 22:06:29] Tipo de Acción y Origen: null Acciones con dispositivos
+Fecha y Hora: [19/03/2021 22:06:29] Tipo de Acción y Origen: null Acciones externas de dispositivos
+Fecha y Hora: [19/03/2021 22:06:29] Tipo de Acción y Origen: null Cargas masivas
