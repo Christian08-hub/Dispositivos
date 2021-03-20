@@ -42,7 +42,7 @@ public class Principal {
 
                 case 6:
                     Log_Principal.PrincipalLog();
-                    Log_Principal.Crear();
+                 
                     break;
 
                 case 7:
